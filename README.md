@@ -14,7 +14,6 @@ hamadabassem427@gmail.com
 khaledhegazy870@gmail.com
 ahmedmohamedkamel06@gmail.com
 adham.sayed01@eng-st.cu.edu.eg
-Ismailakram2000@gmail.com
 omaramin622@gmail.com
 ammar.mo.kheir@gmail.com
 ammar.dabaan99@gmail.com
@@ -70,4 +69,10 @@ hu.auf2000@gmail.com
 mi010203269@gmail.com
 mnmassri@mit.edu
 esraa.m.bahaaeldin@gmail.com
+Ismailakram2000@gmail.com
+aqandeel53@gmail.com
+toka.ehabb@gmail.com
+belalmoawad1999@gmail.com
+seifm9211@gmail.com
+mohamed.osama189110@gmail.com
 amrmohamed09@gmail.com
