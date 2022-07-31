@@ -33,7 +33,6 @@ sarynasser1@gmail.com
 abdallahmselim@gmail.com
 noureldin.hesham.shaker@gmail.com
 abdulrhmansayedali@gmail.com
-ziad.beda95@gmail.com
 m.abdulhady00@gmail.com
 moadelzsc2002@gmail.com
 pmourad772@gmail.com
@@ -59,3 +58,4 @@ ahmed.muhammad302@eng-st.cu.edu.eg
 ahmedkhairym0@gmail.com
 amirtarek04@gmail.com
 seifm9211@gmail.com
+ziad.beda95@gmail.com
