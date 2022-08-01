@@ -58,7 +58,7 @@ Mohamed.Ibrahim.Ahmed@outlook.com
 ahmed.muhammad302@eng-st.cu.edu.eg
 ahmedkhairym0@gmail.com
 amirtarek04@gmail.com
-seifm9211@gmail.com
+seifm9211@gmail.com=
 amro201762@bue.edu.eg
 karimosalamy@gmail.com
 eng.moustafa.abdelhady@gmail.com
@@ -91,3 +91,4 @@ adham2042000@gmail.com
 Hossamali130@gmail.com
 ahmed.osama1982002@gmail.com
 maltayar@aucegypt.edu
+ziad.beda95@gmail.com
