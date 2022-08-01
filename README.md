@@ -96,4 +96,12 @@ ahmed.osama1982002@gmail.com
 maltayar@aucegypt.edu
 ziad.beda95@gmail.com
 sayedhassan800@gmail.com
+tarekmgamal1@gmail.com
+a.hammoda@nu.edu.eg
+Khaledk212@gmail.com
+ibrahimemad.2002x@gmail.com
+alizaiback@gmail.com
+moh.ramadan@nu.edu.eg
+hagarsallam229@gmail.com
+mustafa06mahmoud@gmail.com
 ibrahim.soltan918@gmail.com
